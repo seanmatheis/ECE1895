@@ -1,5 +1,6 @@
 //Jake Higgins
 //Sean Matheis
+//Braden Kullback
 
 void setup() {
   pinMode(8, OUTPUT);    // sets the digital pin 13 as output
