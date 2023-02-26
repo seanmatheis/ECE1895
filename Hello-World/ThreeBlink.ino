@@ -1,3 +1,5 @@
+Sean Matheis
+
 void setup() {
   pinMode(8, OUTPUT);    // sets the digital pin 8 as output
   pinMode(7, OUTPUT);    // sets the digital pin 8 as output
