@@ -1,3 +1,5 @@
+//Jake Higgins
+
 void setup() {
   pinMode(8, OUTPUT);    // sets the digital pin 13 as output
   pinMode(5, INPUT);
